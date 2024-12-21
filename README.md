@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yehia-Khaled
-Aspiring IT Specialist | IT Help Desk | Learning C# & ASP.NET Core | Skilled in IT support, networking (CCNA), and Microsoft environments. 🚀
+- Aspiring IT Specialist | IT Help Desk | Learning C# & ASP.NET Core | Skilled in IT support, networking (CCNA), and Microsoft environments. 🚀
 - 📫 How to reach me yehiakhaled922@gmail.com
 
 <!---
