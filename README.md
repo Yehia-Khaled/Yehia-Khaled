@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yehia-Khaled
-- 👀 I’m interested in Programming specially webdevelopment 
-- 🌱 I’m currently learning at Faculty of enginnering helwan university at 2nd year communication and etisalat department 
+Aspiring IT Specialist | IT Help Desk | Learning C# & ASP.NET Core | Skilled in IT support, networking (CCNA), and Microsoft environments. 🚀
 - 📫 How to reach me yehiakhaled922@gmail.com
 
 <!---
