@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yehia-Khaled
-- IT Specialist @ alsoug.com /Cashi | Learning AWS Cloud | Skilled in IT support, networking (CCNA), and Microsoft environments. 🚀
+- IT Specialist @ NASPS Innovation  | Learning AWS Cloud | Skilled in IT support, networking (CCNA), and Microsoft environments. 🚀
 - 📫 How to reach me: yehiakhaled922@gmail.com
 
 <!---
