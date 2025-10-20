@@ -107,17 +107,6 @@ I write **step-by-step, production-style** guides with:
 
 ---
 
-## 📊 (Optional) GitHub Stats
-
-Uncomment and replace `<your-username>` to show live stats.
-
-```md
-<!--
-![Yehia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
--->
-```
-
 ---
 
 ## 🧩 Fun (lab) facts
@@ -141,3 +130,16 @@ Phone	+201019458380
 GitHub	https://github.com/Yehia-Khaled
 LinkedIn	https://www.linkedin.com/in/yehiakhaled/
 Timezone	Africa/Cairo (UTC+03:00)
+
+  <!--
+## 📊 (Optional) GitHub Stats
+
+Uncomment and replace `<your-username>` to show live stats.
+
+```md
+<!--
+![Yehia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
+-->
+```
+-->
