@@ -1,9 +1,3 @@
-Awesome, Yehia—here’s a clean, copy-paste-ready `README.md` for your GitHub profile. Replace placeholders (like `<your-username>`, links, and emails) and you’re set.
-
-> How to use: create a repo named **`<your-username>/<your-username>`** on GitHub and put this file as `README.md` in the root.
-
----
-
 # Hi, I’m Yehia Khaled 👋
 
 **Systems & Network Lab • SysAdmin / DevOps (in progress)**
